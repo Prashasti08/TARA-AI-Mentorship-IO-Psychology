@@ -37,7 +37,3 @@ TARA is grounded in a verified **Socio-Technical Knowledge Base**:
 
 ---
 
-### 🏆 Why this project sets me apart
-* **Anthropic / OpenAI:** Proven expertise in **AI Safety** and **Constitutional Alignment**.
-* **Meta / Google:** Strong focus on **Human-Centric AI** and grounded knowledge systems.
-* **Roblox / Figma:** Skill in engineering **Specialized Agents** with complex social constraints.
